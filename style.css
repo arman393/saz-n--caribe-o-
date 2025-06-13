@@ -1,0 +1,33 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #333;
+}
+
+header {
+  background: #008037;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.info {
+  padding: 2rem;
+  text-align: center;
+}
+
+footer {
+  background: #f1f1f1;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
